@@ -18,9 +18,11 @@ To run this project, you will need the following software and libraries:
 
 First, ensure you have Python installed on your machine. Then, you can install the required libraries using pip:
 
+```bash
 pip install opencv-python
 pip install mediapipe
 pip install numpy
+```
 
 
 ## Usage
